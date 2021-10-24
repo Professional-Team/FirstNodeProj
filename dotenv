@@ -1,0 +1,3 @@
+DATABASE = mongodb://Localhost:27017/magtech
+PORT = 9900
+SECRET = trustworks
